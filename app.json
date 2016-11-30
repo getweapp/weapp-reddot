@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#666",
+    "navigationBarTitleText": "小红点",
+    "navigationBarTextStyle":"light"
+  }
+}
